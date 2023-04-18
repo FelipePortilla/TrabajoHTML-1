@@ -1,0 +1,3 @@
+CanvasRenderingContext2Dmoto
+Map
+moveTo
